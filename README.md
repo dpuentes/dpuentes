@@ -10,9 +10,9 @@ Cuento con experiencia en **arquitectura en la nube**, **ciberseguridad** y **au
 
 ---
 
-### 🔭 Actualmente trabajo en
-- Actualmente colaboro con [hogaru.com](https://hogaru.com), desarrollando y optimizando el sistema ERP utilizando **Ruby on Rails**, **PostgreSQL** y **servicios en AWS**.
-- Desarrollo backend de la plataforma **[Mi Negocio Organizado](https://minegocioorganizado.com/)** (Ruby on Rails + PostgreSQL + hetzner-cloud).
+### 🔭 Actualmente:
+- Colaboro con [hogaru.com](https://hogaru.com), desarrollando y optimizando el sistema ERP utilizando **Ruby on Rails**, **PostgreSQL** y **servicios en AWS**.
+- Estoy creando la plataforma **[Mi Negocio Organizado](https://minegocioorganizado.com/)** (Ruby on Rails + PostgreSQL + hetzner-cloud).
 - Diseño e implemento soluciones de automatización de procesos de negocio mediante **IA** y **APIs REST de Meta-WhatsApp**, enfocadas en la integración y orquestación de servicios a través de conexiones API.
 - Optimización de seguridad y rendimiento en aplicaciones cloud.
 
