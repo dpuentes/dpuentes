@@ -1,16 +1,36 @@
-## Hi there 👋
+## ¡Hola! 👋
 
-<!--
-**dpuentes/dpuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Diego Puentes**, ingeniero en telecomunicaciones con especialización en **seguridad informática** y **desarrollador Full Stack** especializado en **Ruby on Rails**.  
+Cuento con experiencia en **arquitectura en la nube**, **ciberseguridad** y **automatización de procesos mediante inteligencia artificial**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Actualmente estudio
+- **Máster en Big Data**, enfocado en análisis de datos, ciencia de datos y arquitecturas escalables.
+
+---
+
+### 🔭 Actualmente trabajo en
+- Actualmente colaboro con [hogaru.com](https://hogaru.com), desarrollando y optimizando el sistema ERP utilizando **Ruby on Rails**, **PostgreSQL** y **servicios en AWS**.
+- Desarrollo backend de la plataforma **[Mi Negocio Organizado](https://minegocioorganizado.com/)** (Ruby on Rails + PostgreSQL + hetzner-cloud).
+- Diseño e implemento soluciones de automatización de procesos de negocio mediante **IA** y **APIs REST de Meta-WhatsApp**, enfocadas en la integración y orquestación de servicios a través de conexiones API.
+- Optimización de seguridad y rendimiento en aplicaciones cloud.
+
+---
+
+### 🛠 Tecnologías que uso
+- **Backend:** Ruby on Rails, RSpec, Sidekiq  
+- **Bases de datos:** PostgreSQL, Redis  
+- **Cloud:** AWS - hetzner  
+- **DevOps:** Docker, GitHub Actions (CI/CD)  
+- **APIs:** Integraciones con APIs, automatización vía Meta WhatsApp, integraciones con IA  
+
+---
+
+### 📫 Cómo contactarme
+- [LinkedIn](www.linkedin.com/in/diego-ferney-puentes-delgadillo-9b1750154)  
+- [Correo](dipuentes123@gmail.com)
+
+---
+
+> _“Apasionado por construir soluciones seguras, escalables y basadas en datos que generen impacto en los negocios.”_
