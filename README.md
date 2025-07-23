@@ -28,8 +28,9 @@ Cuento con experiencia en **arquitectura en la nube**, **ciberseguridad** y **au
 ---
 
 ### 📫 Cómo contactarme
-- [LinkedIn](www.linkedin.com/in/diego-ferney-puentes-delgadillo-9b1750154)  
-- [Correo](dipuentes123@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/diego-ferney-puentes-delgadillo-9b1750154)
+- [Correo corporativo](mailto:diego.puentes@hogaru.com)
+- [Correo personal](mailto:dipuentes123@gmail.com)
 
 ---
 
