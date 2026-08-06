@@ -5,8 +5,8 @@ Cuento con experiencia en **arquitectura en la nube**, **ciberseguridad** y **au
 
 ---
 
-### 📚 Actualmente estudio
-- **Máster en Big Data**, enfocado en análisis de datos, ciencia de datos y arquitecturas escalables.
+### 📚 Me puse a estudiar en la universidad europea un:
+- **Máster en Big Data**,🫣 enfocado en análisis de datos, ciencia de datos y arquitecturas escalables.
 
 ---
 
@@ -15,6 +15,7 @@ Cuento con experiencia en **arquitectura en la nube**, **ciberseguridad** y **au
 - Estoy creando la plataforma **[Mi Negocio Organizado](https://minegocioorganizado.com/)** (Ruby on Rails + PostgreSQL + hetzner-cloud).
 - Diseño e implemento soluciones de automatización de procesos de negocio mediante **IA** y **APIs REST de Meta-WhatsApp**, enfocadas en la integración y orquestación de servicios a través de conexiones API.
 - Optimización de seguridad y rendimiento en aplicaciones cloud.
+- Construyo par de funcionalidades MCP para reclutamiento y consulta de datos financieros de pequeños negocios.
 
 ---
 
@@ -23,7 +24,7 @@ Cuento con experiencia en **arquitectura en la nube**, **ciberseguridad** y **au
 - **Bases de datos:** PostgreSQL, Redis  
 - **Cloud:** AWS - hetzner  
 - **DevOps:** Docker, GitHub Actions (CI/CD)  
-- **APIs:** Integraciones con APIs, automatización vía Meta WhatsApp, integraciones con IA  
+- **APIs/MCP:** Integraciones con APIs, automatización vía Meta WhatsApp, integraciones con IA  
 
 ---
 
