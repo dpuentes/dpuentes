@@ -1,17 +1,12 @@
 ## ¡Hola! 👋
 
-Soy **Diego Puentes**, ingeniero en telecomunicaciones con especialización en **seguridad informática** y **desarrollador Full Stack** especializado en **Ruby on Rails**.  
-Cuento con experiencia en **arquitectura en la nube**, **ciberseguridad** y **automatización de procesos mediante inteligencia artificial**.
-
----
-
-### 📚 Me puse a estudiar en la universidad europea un:
-- **Máster en Big Data**,🫣 enfocado en análisis de datos, ciencia de datos y arquitecturas escalables.
+Soy **Diego Puentes**, ingeniero en **telecomunicaciones** con especialización en **seguridad informática**. Soy **desarrollador Full Stack** especializado en **Ruby on Rails**.  
+Apacionado por proceso que involucren inteligencia artificial. Curso un **Máster en Big Data** en la universidad europea.
 
 ---
 
 ### 🔭 Actualmente:
-- Colaboro con [hogaru.com](https://hogaru.com), desarrollando y optimizando el sistema ERP utilizando **Ruby on Rails**, **PostgreSQL** y **servicios en AWS**.
+- Colaboro con [hogaru.com](https://hogaru.com), desarrollando y optimizando el sistema ERP utilizando **Ruby on Rails**
 - Estoy creando la plataforma **[Mi Negocio Organizado](https://minegocioorganizado.com/)** (Ruby on Rails + PostgreSQL + hetzner-cloud).
 - Diseño e implemento soluciones de automatización de procesos de negocio mediante **IA** y **APIs REST de Meta-WhatsApp**, enfocadas en la integración y orquestación de servicios a través de conexiones API.
 - Optimización de seguridad y rendimiento en aplicaciones cloud.
