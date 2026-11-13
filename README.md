@@ -1,33 +1,34 @@
-## ¡Hola! 👋
+## ¡Hola! Soy Diego 👋
 
-Soy **Diego Puentes**, ingeniero en **telecomunicaciones** con especialización en **seguridad informática**. Soy **desarrollador Full Stack** especializado en **Ruby on Rails**.  
-Apacionado por proceso que involucren inteligencia artificial. Curso un **Máster en Big Data** en la universidad europea.
+**Pongo a trabajar a los agentes de IA (y reviso lo que hacen)** · Rails · MCP · Skills · Harness
 
----
+Soy ingeniero de telecomunicaciones. Casi todos los días delego funciones a agentes de IA y con mi second brain les enseño trucos nuevos.
 
-### 🔭 Actualmente:
-- Colaboro con [hogaru.com](https://hogaru.com), desarrollando y optimizando el sistema ERP utilizando **Ruby on Rails**
-- Estoy creando la plataforma **[Mi Negocio Organizado](https://minegocioorganizado.com/)** (Ruby on Rails + PostgreSQL + hetzner-cloud).
-- Diseño e implemento soluciones de automatización de procesos de negocio mediante **IA** y **APIs REST de Meta-WhatsApp**, enfocadas en la integración y orquestación de servicios a través de conexiones API.
-- Optimización de seguridad y rendimiento en aplicaciones cloud.
-- Construyo par de funcionalidades MCP para reclutamiento y consulta de datos financieros de pequeños negocios.
+Llevo más de diez años entre redes, servidores y código. Empecé en mesa de ayuda, pasé a infraestructura y hoy hago backend (Ruby on Rails) y cloud. De ese recorrido me quedó una costumbre: entender primero cómo funciona la operación. Sin eso no se puede escribir una buena base de un PRD.
 
----
+Mi trabajo es como mi apellido, ser el puente entre un proceso real y la IA. Ojo, no todo se resuelve con IA. Pero eso no quiere decir que no puedas usarla durante todo el desarrollo.
 
-### 🛠 Tecnologías que uso
-- **Backend:** Ruby on Rails, RSpec, Sidekiq  
-- **Bases de datos:** PostgreSQL, Redis  
-- **Cloud:** AWS - hetzner  
-- **DevOps:** Docker, GitHub Actions (CI/CD)  
-- **APIs/MCP:** Integraciones con APIs, automatización vía Meta WhatsApp, integraciones con IA  
+### 🔭 Lo que hago hoy
 
----
+Prototipar mi second brain con conceptos clave:
+
+- **Producto:** PRD, roadmap Now-Next-Later, outcomes medibles, RICE, North Star
+- **Desarrollo:** Spec-Driven Development (SDD), vertical slices, TDD con agentes, commits atómicos
+- **Agentes:** ingeniería de contexto, LLM como juez, generador-evaluador, agentes de larga duración, loop engineering
+- **Calidad y seguridad:** revisor de código con IA, gates de IA en CI, mutation testing, red team con IA, policy as code
+
+Con esa base aplico con más criterio los términos nuevos que nos regala la IA durante su evolución: **MCP, Skills, Harness Engineering, AI Software Factory y AI Content Factory**.
+
+### 🛠️ Tecnologías que uso
+
+- **Backend:** Ruby on Rails, Python, RSpec, Sidekiq
+- **Bases de datos:** PostgreSQL, Redis
+- **Cloud:** AWS, Hetzner
+- **DevOps:** Docker, GitHub Actions (CI/CD)
+- **IA y automatización:** Claude Code, MCP, n8n, Dapta
 
 ### 📫 Cómo contactarme
-- [LinkedIn](https://www.linkedin.com/in/diego-ferney-puentes-delgadillo-9b1750154)
+- [LinkedIn](https://www.linkedin.com/in/diego-ferney-puentes-delgadillo-9b1750154](https://www.linkedin.com/in/diego-ferney-puentes-delgadillo-9b1750154/)
 - [Correo corporativo](mailto:diego.puentes@hogaru.com)
 - [Correo personal](mailto:dipuentes123@gmail.com)
 
----
-
-> _“Apasionado por construir soluciones seguras, escalables y basadas en datos que generen impacto en los negocios.”_
