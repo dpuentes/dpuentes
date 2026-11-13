@@ -28,7 +28,7 @@ Con esa base aplico con más criterio los términos nuevos que nos regala la IA 
 - **IA y automatización:** Claude Code, MCP, n8n, Dapta
 
 ### 📫 Cómo contactarme
-- [LinkedIn](https://www.linkedin.com/in/diego-ferney-puentes-delgadillo-9b1750154](https://www.linkedin.com/in/diego-ferney-puentes-delgadillo-9b1750154/)
+- [LinkedIn](https://www.linkedin.com/in/diego-ferney-puentes-delgadillo-9b1750154/)
 - [Correo corporativo](mailto:diego.puentes@hogaru.com)
 - [Correo personal](mailto:dipuentes123@gmail.com)
 
