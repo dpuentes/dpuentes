@@ -19,13 +19,18 @@ Prototipar mi second brain con conceptos clave:
 
 Con esa base aplico con más criterio los términos nuevos que nos regala la IA durante su evolución: **MCP, Skills, Harness Engineering, AI Software Factory y AI Content Factory**.
 
+## 🏭 Lo que construí
+
+- **Fábrica de software con agentes:** lleva un issue hasta producción en 8 estaciones. Spec, builder con TDD en sandbox, verificador con contexto limpio, compuerta de CI y despliegue. Yo apruebo la spec y el merge. Resultado: [juegos.minegocioorganizado.com](https://juegos.minegocioorganizado.com). Repo privado hasta pasar la revisión de seguridad.
+- **Fábrica de contenido:** Claude Code + Remotion. Resultado: [short 1](https://youtube.com/shorts/mveT9y0OviM) y [short 2](https://youtube.com/shorts/bWp_EGVQWvg).
+
 ### 🛠️ Tecnologías que uso
 
 - **Backend:** Ruby on Rails, Python, RSpec, Sidekiq
 - **Bases de datos:** PostgreSQL, Redis
 - **Cloud:** AWS, Hetzner
 - **DevOps:** Docker, GitHub Actions (CI/CD)
-- **IA y automatización:** Claude Code, MCP, n8n, Dapta
+- **IA y automatización:** Claude Code, MCP (servidores propios con OAuth 2.1), ruby_llm, Remotion, n8n, Dapta
 
 ### 📫 Cómo contactarme
 - [LinkedIn](https://www.linkedin.com/in/diego-ferney-puentes-delgadillo-9b1750154/)
